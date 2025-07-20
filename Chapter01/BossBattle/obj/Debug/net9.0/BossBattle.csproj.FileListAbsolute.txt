@@ -1,0 +1,14 @@
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\bin\Debug\net9.0\BossBattle.exe
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\bin\Debug\net9.0\BossBattle.deps.json
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\bin\Debug\net9.0\BossBattle.runtimeconfig.json
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\bin\Debug\net9.0\BossBattle.dll
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\bin\Debug\net9.0\BossBattle.pdb
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.AssemblyInfoInputs.cache
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.AssemblyInfo.cs
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.dll
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\refint\BossBattle.dll
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.pdb
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\BossBattle.genruntimeconfig.cache
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter01\BossBattle\obj\Debug\net9.0\ref\BossBattle.dll
