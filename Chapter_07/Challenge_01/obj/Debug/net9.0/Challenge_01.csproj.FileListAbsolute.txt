@@ -1,0 +1,15 @@
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\bin\Debug\net9.0\Challenge_01.exe
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\bin\Debug\net9.0\Challenge_01.deps.json
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\bin\Debug\net9.0\Challenge_01.runtimeconfig.json
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\bin\Debug\net9.0\Challenge_01.dll
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\bin\Debug\net9.0\Challenge_01.pdb
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.AssemblyInfoInputs.cache
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.AssemblyInfo.cs
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.sourcelink.json
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.dll
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\refint\Challenge_01.dll
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.pdb
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\Challenge_01.genruntimeconfig.cache
+C:\Users\Aaron\OneDrive\Desktop\Workspace\Players_Guide\Chapter_07\Challenge_01\obj\Debug\net9.0\ref\Challenge_01.dll
